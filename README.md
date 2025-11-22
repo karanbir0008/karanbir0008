@@ -47,16 +47,7 @@
 
 ---
 
-## 🚀 **Highlighted Projects**
-*(More major DS/AI projects coming soon)*
 
-🔸 **Visitor Management System** – Flask-based data handling system  
-🔸 **AI Study Assistant (Dec 2024 – Building)**  
-🔸 **Mini DS/ML Projects Collection (Upcoming repo)**  
-
-> I focus on building clean, meaningful projects that demonstrate practical ML, analytics, and engineering skills.
-
----
 
 ## 📊 **GitHub Analytics**
 
